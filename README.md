@@ -1,1 +1,2 @@
-# livro_ED-Excel-2016-Av
+# Livro: Estudo Dirigido de MS-Office Excel 2016 Avançado
+
